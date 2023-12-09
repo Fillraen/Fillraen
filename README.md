@@ -1,7 +1,7 @@
 <h1 align="center">👋 Bienvenue sur mon profil GitHub! Je suis Nicolas Trehou</h1>
 
 <p align="center">
-  <img src="https://github.com/Fillraen/NicolasTrehou/blob/main/github-header-image.png" alt="Bannière Nicolas Trehou">
+  <img src="https://github.com/Fillraen/NicolasTrehou/blob/main/Banner.png" alt="Bannière Nicolas Trehou">
 </p>
 
 ### 🌟 About Me
