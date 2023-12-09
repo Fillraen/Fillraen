@@ -45,7 +45,7 @@ I am Nicolas Trehou, a 22-year-old developer passionate about exploring new tech
 ---
 
 ### 📁 Key Projects
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
 
@@ -84,20 +84,51 @@ I am Nicolas Trehou, a 22-year-old developer passionate about exploring new tech
 </table>
 
 
-### 📊 Language Usage
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fillraen&theme=tokyonight" alt="Nicolas's Top Languages">
-</p>
 
-### 📈 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fillraen&show_icons=true&theme=tokyonight" alt="Nicolas's GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fillraen&theme=tokyonight" alt="GitHub Streak">
-</p>
+---
+
+ ### 📈 My GitHub Stats
+
+
+<table width="100%">
+  <tr>
+
+  <td width="50%" valign="top">
+      <h3 align="center">Top Languages</h3>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fillraen&theme=tokyonight&layout=compact" alt="Nicolas's Top Languages">
+      </p>
+    </td>
+    
+
+  <td width="50%" valign="top">
+      <h3 align="center">GitHub Stats</h3>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Fillraen&show_icons=true&theme=tokyonight&layout=compact" alt="Nicolas's GitHub Stats">
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- Troisième élément (s'étend sur toute la largeur) -->
+    <td colspan="2">
+      <h3 align="center">Streak Stats</h3>
+      <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fillraen&theme=tokyonight&layout=compact" alt="GitHub Streak">
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 
 ### 📫 Contact Me
-- **Email:** [nt.aergie@gmail.com](mailto:nt.aergie@gmail.com)
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/ntrehou/)
+<div align="left">
+  <a href="https://www.instagram.com/nicolas.trehou"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" href="https://www.instagram.com/nicolas.trehou" height="35" alt="instagram logo"  /></a>
+  <a href="mailto:nt.aergie@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  <a href="https://www.linkedin.com/in/ntrehou"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+</div>
+
 
 ---
 
