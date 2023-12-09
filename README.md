@@ -45,8 +45,44 @@ I am Nicolas Trehou, a 22-year-old developer passionate about exploring new tech
 ---
 
 ### 📁 Key Projects
-- **Project One**: This project is a web application built with React and Node.js. It features a complex user interface and is integrated with several APIs. The application aims to improve the online learning experience through interactive tools and resources.
-- **Project Two**: This is a Python-based data analysis project. It involves machine learning algorithms to analyze and predict trends based on large datasets. The project showcases my skills in data science and machine learning.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+       
+  <h4>🚀 Project One: Steel Strickers</h4>
+      <p><strong>Description:</strong> Le projet Steel Strickers vise à organiser des combats de robots. Nous développons un système pour la gestion et la coordination des combats, des utilisateurs, des robots et des données associées.</p>
+      <p><strong>Technologies Used:</strong></p>
+      <p align="left">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> &nbsp;
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> &nbsp;
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> &nbsp;
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> &nbsp;
+      </p>
+      <a href="https://github.com/fillraen/SteelStrickers">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fillraen&repo=SteelStrickers&theme=tokyonight" alt="Steel Strickers" />
+      </a>
+
+  </td>
+    <td width="50%" valign="top">
+
+  <h4>📊 Project Two: Paris Sportif</h4>
+      <p><strong>Description:</strong> Bet1Max est une application de paris sportifs dédiée au football, permettant aux utilisateurs de parier sur des matchs en direct. Les utilisateurs peuvent miser sur les résultats finaux, les scores exacts et la probabilité que les deux équipes marquent.</p>
+      <p><strong>Technologies Used:</strong></p>
+      <p align="left">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> &nbsp;
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> &nbsp;
+      </p>
+      <a href="https://github.com/fillraen/parisSportif">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fillraen&repo=parisSportif&theme=tokyonight" alt="Paris Sportif" />
+      </a>
+
+  </td>
+  </tr>
+</table>
+
 
 ### 📊 Language Usage
 <p align="center">
