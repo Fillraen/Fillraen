@@ -22,7 +22,7 @@ I am Nicolas Trehou, a 22-year-old developer passionate about exploring new tech
 
 ### 📊 Language Usage
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fillraen&layout=compact" alt="Nicolas's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fillraen&theme=tokyonight" alt="Nicolas's Top Languages">
 </p>
 
 ### 📈 My GitHub Stats
