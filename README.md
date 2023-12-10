@@ -90,7 +90,7 @@ I am Nicolas Trehou, a 22-year-old developer passionate about exploring new tech
  ### 📈 My GitHub Stats
 
 
-<table>
+<table align="center">
   <tr>
 
   <td width="50%" valign="top">
