@@ -52,7 +52,7 @@ I am Nicolas Trehou, a 22-year-old developer passionate about exploring new tech
        
   <h4>🚀 Project One: Steel Strickers</h4>
       <p><strong>Description:</strong> Le projet Steel Strickers vise à organiser des combats de robots. Nous développons un système pour la gestion et la coordination des combats, des utilisateurs, des robots et des données associées.</p>
-      <p><strong>Technologies Used:</strong></p><p></p>
+      <p><strong>Technologies Used:</strong></p><p>&nbsp;&nbsp;</p>
       <p align="left">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> &nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> &nbsp;
