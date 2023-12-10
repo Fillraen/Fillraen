@@ -70,6 +70,7 @@ I am Nicolas Trehou, a 22-year-old developer passionate about exploring new tech
 
   <h4>📊 Project Two: Paris Sportif</h4>
       <p><strong>Description:</strong> Bet1Max est une application de paris sportifs dédiée au football, permettant aux utilisateurs de parier sur des matchs en direct. Les utilisateurs peuvent miser sur les résultats finaux, les scores exacts et la probabilité que les deux équipes marquent.</p>
+      <p>&nbsp;</p>
       <p><strong>Technologies Used:</strong></p>
       <p align="left">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> &nbsp;
