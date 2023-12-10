@@ -1,7 +1,7 @@
 <h1 align="center">👋 Bienvenue sur mon profil GitHub! Je suis Nicolas Trehou</h1>
 
 <p align="center">
-  <img src="https://github.com/Fillraen/NicolasTrehou/blob/main/Banner.png" alt="Bannière Nicolas Trehou">
+  <img src="https://github.com/Fillraen/NicolasTrehou/blob/main/shortBanner.png" alt="Bannière Nicolas Trehou">
 </p>
 
 ### 🌟 About Me
@@ -48,9 +48,7 @@ I am Nicolas Trehou, a 22-year-old developer passionate about exploring new tech
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-
-       
-  <h4>🚀 Project One: Steel Strickers</h4>
+      <h4>🚀 Project One: Steel Strickers</h4>
       <p><strong>Description:</strong> Le projet Steel Strickers vise à organiser des combats de robots. Nous développons un système pour la gestion et la coordination des combats, des utilisateurs, des robots et des données associées.</p>
       <p><strong>Technologies Used:</strong></p>
       <p align="left">
@@ -63,11 +61,9 @@ I am Nicolas Trehou, a 22-year-old developer passionate about exploring new tech
       <a href="https://github.com/fillraen/SteelStrickers">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=fillraen&repo=SteelStrickers&theme=tokyonight" alt="Steel Strickers" />
       </a>
-
-  </td>
+    </td>
     <td width="50%" valign="top">
-
-  <h4>📊 Project Two: Paris Sportif</h4>
+      <h4>📊 Project Two: Paris Sportif</h4>
       <p><strong>Description:</strong> Bet1Max est une application de paris sportifs dédiée au football, permettant aux utilisateurs de parier sur des matchs en direct. Les utilisateurs peuvent miser sur les résultats finaux, les scores exacts et la probabilité que les deux équipes marquent.</p>
       <p><strong>Technologies Used:</strong></p>
       <p align="left">
@@ -78,47 +74,38 @@ I am Nicolas Trehou, a 22-year-old developer passionate about exploring new tech
       <a href="https://github.com/fillraen/parisSportif">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=fillraen&repo=parisSportif&theme=tokyonight" alt="Paris Sportif" />
       </a>
-
-  </td>
+    </td>
   </tr>
 </table>
-
-
 
 ---
 
- ### 📈 My GitHub Stats
-
-
+### 📈 My GitHub Stats
 <table width="100%">
   <tr>
-
-  <td width="50%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">Top Languages</h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fillraen&theme=tokyonight&layout=compact" alt="Nicolas's Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fillraen&theme=tokyonight&layout=compact" alt="Nicolas's Top Languages" />
       </p>
     </td>
-    
-
-  <td width="50%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">GitHub Stats</h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Fillraen&show_icons=true&theme=tokyonight&layout=compact" alt="Nicolas's GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Fillraen&show_icons=true&theme=tokyonight&layout=compact" alt="Nicolas's GitHub Stats" />
       </p>
     </td>
   </tr>
-
   <tr>
-    <!-- Troisième élément (s'étend sur toute la largeur) -->
     <td colspan="2">
       <h3 align="center">Streak Stats</h3>
       <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fillraen&theme=tokyonight&layout=compact" alt="GitHub Streak">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fillraen&theme=tokyonight&layout=compact" alt="GitHub Streak" />
       </p>
     </td>
   </tr>
 </table>
+
 
 
 
