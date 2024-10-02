@@ -6,7 +6,7 @@
 
 ### 🌟 About Me
 <p>
-I am Nicolas Trehou, a 22-year-old developer passionate about exploring new technologies and working on innovative projects. 🚀
+I am Nicolas Trehou, a 23-year-old developer passionate about exploring new technologies and working on innovative projects. 🚀
 </p>
 
 ### 🛠️ Languages
